@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct ColorizedApp_SwiftBookApp: App {
+struct TrafficLight_Swiftbook: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TrafficLightView()
         }
     }
 }
